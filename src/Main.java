@@ -15,6 +15,7 @@ import java.util.Random;
 
 
 public class Main extends Application {
+    
     Scene window;
     int WindowSize = 100;
     static int difficulty;
